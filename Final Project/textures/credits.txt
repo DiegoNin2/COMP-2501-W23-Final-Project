@@ -1,0 +1,6 @@
+heart: https://opengameart.org/content/heart-pixel-art
+powerups: https://opengameart.org/content/black-and-white-shild-and-sword
+shield: https://opengameart.org/content/shield-effect
+
+enemy ships: https://opengameart.org/content/space-ship-mech-construction-kit-2
+bullets: https://opengameart.org/content/sci-fi-space-simple-bullets
